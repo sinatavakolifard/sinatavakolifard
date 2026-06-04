@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://sinacodes.de"><img src="https://img.shields.io/badge/Portfolio-sinacodes.de-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/sinatavakolifard/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/sinatavakolifard"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Location-Germany%20%F0%9F%87%A9%F0%9F%87%AA-444?style=for-the-badge" alt="Location">
+  <a href="https://sinacodes.de" title="Portfolio"><img src="icons/portfolio.png" alt="Portfolio" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sinatavakolifard/" title="LinkedIn"><img src="icons/linkedin.png" alt="LinkedIn" width="28" height="28"></a>&nbsp;&nbsp;
+  <img src="icons/germany.png" alt="Germany" width="28" height="28">
 </p>
 
 ---
@@ -70,7 +69,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[easygerman](https://github.com/sinatavakolifard/easygerman)** | Turns German podcast audio into a study-ready vocab list — Whisper transcription, spaCy lemmatization, frequency-based difficulty filtering & translations. CLI + web app. | `Python` `Whisper` `spaCy` |
+| **[easygerman](https://github.com/sinatavakolifard/easygerman)** | Turns German podcast audio into a study-ready vocab list — Whisper transcription, spaCy lemmatization, frequency-based difficulty filtering & translations. CLI + web app. | `React` `Python` `Whisper` `spaCy` |
 | **[dfki_human_activity_recognition](https://github.com/sinatavakolifard/dfki_human_activity_recognition)** | A cross-platform app for Human Activity Recognition. | `Flutter` `Dart` |
 | **[dfki_har_backend](https://github.com/sinatavakolifard/dfki_har_backend)** | FastAPI + PostgreSQL backend powering the HAR app. | `FastAPI` `PostgreSQL` |
 | **[portfolio](https://github.com/sinatavakolifard/portfolio)** | My personal portfolio site. → [sinacodes.de](https://sinacodes.de) | `TypeScript` `React` |
@@ -81,9 +80,8 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://sinacodes.de"><img src="https://img.shields.io/badge/Portfolio-sinacodes.de-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/sinatavakolifard/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/sinatavakolifard"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://sinacodes.de" title="Portfolio"><img src="icons/portfolio.png" alt="Portfolio" width="28" height="28"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sinatavakolifard/" title="LinkedIn"><img src="icons/linkedin.png" alt="LinkedIn" width="28" height="28"></a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos! ⭐</i></p>
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos!</i></p>
